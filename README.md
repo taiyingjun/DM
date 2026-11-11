@@ -8,6 +8,7 @@
 
 - https://taiyingjun.github.io/DM/
 - https://taiyingjun.github.io/DM/kerui-tech/
+- https://taiyingjun.github.io/DM/dashu-shizhan-test-2026-11-11/
 
 两处是同一份自包含 HTML：根目录 `index.html` 与 `kerui-tech/index.html`。
 
